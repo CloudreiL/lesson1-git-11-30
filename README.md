@@ -1,16 +1,7 @@
-# best_app_ever_trust_me
+# Flutter interface 
 
-A new Flutter project.
+## Панельки ух
 
-## Getting Started
+![image](https://github.com/CloudreiL/lesson1-git-11-30/assets/124619046/a2ef70aa-780c-42cd-a8a9-25b8c1080d75)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
